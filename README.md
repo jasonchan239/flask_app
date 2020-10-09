@@ -2,7 +2,7 @@
 
 This is a project that uses flask + python to create a website that runs .js code on html webpages.
 ________________________________________________________________________________________________________________________________________
-Bootstrap and template inheritance is used in the html pages.
+## Bootstrap and template inheritance is used in the html pages.
 ![image](https://user-images.githubusercontent.com/50674864/95535402-5fbf4300-09b6-11eb-9acd-0bf26bbf7199.png)
 
 ________________________________________________________________________________________________________________________________________
