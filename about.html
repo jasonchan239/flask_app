@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block title %}Home Page{% endblock %}
+{% block content %}
+<html>
+   <head>
+      <script type = "text/javascript"
+         src = "{{ url_for('static', filename = 'randomfh4.js') }}" ></script>
+   </head>
+   <body>
+      <input type = "button" onclick = "rollFH4()" value = randomElement />
+   </body>
+</html>
+{% endblock %}
+
+
